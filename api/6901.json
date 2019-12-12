@@ -1,0 +1,11 @@
+ {
+     "nome": "Linha 6901MARACANÃ / UNIMONTES - VIA CONJUNTO JOAQUIM COSTA ",
+     "ida": "Maracanã para a Unimontes: Ponto final na Mercearia do Pascoal, Rua Sete de Setembro, Praça do Maracanã, Ciro dos anjos, C. Joaquim Costa, R. Frei Caneca, Rua Gentil Gonzaga, Canelas, Rodoviária, Av. Cula Mangabeira, Rua Correa Machado, Pç. Cel. Ribeiro, Pç. Dr. Carlos, Rua Santa Maria, Rua Flavio Mauricio, Rua Maria Conceição Oliveira, Av. Oldemar Santos, Rua Josina Ramos Guimarães, Rua Valter Silva Santos. *** ATENÇÃO SRS. USUÁRIOS, INFORMAMOS QUE A PARTIR DO DIA 02/02/2015, ESTA LINHA NÃO ATENDERÁ A REGIAO DO TODOS OS SANTOS (UNIMONTES) NOS FINAIS DE SEMANA A PARTIR DAS 14:00 DO SÁBADO, DOMINGO E AOS FERIADOS, O PONTO FINAL SERÁ NA PÇ ESPORTES.",
+     "ida_dias_úteis": "05:20 / 06:20 / 07:15 / 08:15 / 09:10 / 10:10 / 11:00 / 12:00 / 12:50 / 13:50 / 14:40 / 15:40 / 16:40 / 17:40 / 18:40 / 20:35 / ",
+     "ida_sábados": "05:20 / 07:15 / 09:10 / 11:00 / 12:50 / ",
+     "ida_feriados": "",
+     "volta": "Unimontes para o Maracanã: Rua Valter Silva Santos, R. Santa Lucia, Av. Dep. Esteves Rodrigues, R. Goncalves Figueira, Pç. Dr. Carlos, Pç. Cel. Ribeiro, Rua Januaria, Prefeitura, Av. Cula Mangabeira, Shopping, Rodoviaria, São Judas, Canelas, Rua Frei Caneca, C.Joaquim Costa, Ciro dos Anjos, Rua Ateneu, Pç. Maracanã, Rua Sete de Setembro, Ponto Final na Mercearia do Pascoal. *** ATENÇÃO SRS. USUÁRIOS, INFORMAMOS QUE A PARTIR DO DIA 02/02/2015, ESTA LINHA NÃO ATENDERÁ A REGIAO DO TODOS OS SANTOS (UNIMONTES) NOS FINAIS DE SEMANA A PARTIR DAS 14:00 DO SÁBADO, DOMINGO E AOS FERIADOS, O PONTO FINAL SERÁ NA PÇ ESPORTES.",
+     "volta_úteis": "06:20 / 07:20 / 08:15 / 09:15 / 10:05 / 11:05 / 11:55 / 12:55 / 13:45 / 14:45 / 15:40 / 16:40 / 17:40 / 18:40 / 19:40 / 21:30 / 22:35 / ",
+     "volta_sábados": "06:20 / 08:15 / 10:05 / 11:55 / ",
+     "volta_feriados": ""
+ }

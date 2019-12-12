@@ -1,0 +1,11 @@
+{
+    "nome": "Linha Circular ACIRCULAR A ",
+    "ida": "Rodoviária: Terminal Rodoviário, Av. Donato Quintino, Av. Cula Mangabeira, Av. Professor Vicente Guimarães, Av. José Corrêa Machado (Fac. Ibituruna), Av. Deputado Esteves Rodrigues (Pousada do Sesc, Mercado Central), Av. Artur Bernardes (Socomil), Av. Armênio Veloso, Av. Oswaldo Cruz, Av. Padre Chico (Igreja Universal), Pça. de Esportes, Av. Alfredo Coutinho, Av. Geraldo Atayde (Hosp.Dilson Goldinho, Pç. Itapetinga, Parque Exposição),Av. Governador Magalhães Pinto, trevo da Cowan, Av. Deputado Plínio Ribeiro (Crevac caminhões, Fiat Polígono, Batalhão e Copasa), Av. das Américas, Av. São Judas Tadeu, Av. N. S. de Fátima, R. Gentil Gonzaga, R. Mangueiras, R. Padre Vieira, Av. Donato Quintino e Rodoviária. ",
+    "ida_dias_úteis": "06:00 / 06:30 / 07:00 / 07:30 / 08:00 / 08:30 / 09:00 / 09:30 / 10:00 / 10:30 / 11:00 / 11:35 / 12:00 / 12:30 / 13:00 / 13:30 / 14:00 / 14:30 / 15:00 / 15:30 / 16:00 / 16:30 / 17:00 / 17:35 / 18:00 / 18:30 / 19:30 / 20:30 / 21:30 / 22:35 / ",
+    "ida_sábados": "06:00 / 07:00 / 08:00 / 09:00 / 10:00 / 11:00 / 12:00 / 13:00 / 14:00 / 15:00 / 16:00 / 17:00 / 18:00 / ",
+    "ida_feriados": "",
+    "volta": "Itinerário Volta: ",
+    "volta_úteis": "",
+    "volta_sábados": "",
+    "volta_feriados": ""
+}

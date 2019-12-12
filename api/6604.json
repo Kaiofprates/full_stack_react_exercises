@@ -1,0 +1,11 @@
+{
+    "nome": "Linha 6604RESIDENCIAL SUL / CENTRO VIA MAJOR PRATES ",
+    "ida": "Residencial Sul para o Centro: Residencial Sul, Alterosa, Maracanã, Major Prates, Av. Francisco Gaetani, Av. Cula Mangabeira, Prefeitura, Rua Correa Machado, Rua João Souto, Praça Cel. Ribeiro, Praça Dr. Carlos, Praça de Esportes, ponto de retorno na Ellos Calcados.",
+    "ida_dias_úteis": "05:10 / 06:00 / 06:50 / 07:35 / 08:25 / 09:10 / 10:45 / 11:35 / 12:20 / 13:10 / 13:55 / 15:30 / 16:20 / 17:05 / 18:00 / 18:45 / 20:00 / 21:15 / 22:35 / ",
+    "ida_sábados": "06:00 / 07:35 / 09:10 / 10:45 / 12:20 / 13:55 / 15:30 / 17:05 / 18:40 / 21:50 / ",
+    "ida_feriados": "06:00 / 07:30 / 09:00 / 10:30 / 12:00 / 15:00 / 16:30 / 18:00 / 19:30 / 22:00 / ",
+    "volta": "Centro para o Residencial sul: Ellos Calcados, Praça de Esportes, Praça Dr. Carlos, Praça Cel. Ribeiro, Av. Cula Mangabeira, Av. Francisco Gaetani, Praça Três pilastra, Moajor Prates, Av. Nossa Senhora de Fatima, Praça Beato Cool, Rua Guarani, Alterosa, Av. Mario Tourinho, Av. Um, Av. Dois, Rua Treze, Av. Um dentro do Residencial Sul. ",
+    "volta_úteis": "06:45 / 07:35 / 08:20 / 09:55 / 11:30 / 12:20 / 13:05 / 14:40 / 15:30 / 16:15 / 17:05 / 17:50 / 19:25 / 20:40 / 22:00 / 23:00 / ",
+    "volta_sábados": "06:45 / 08:20 / 09:55 / 11:30 / 13:05 / 14:40 / 16:15 / 17:50 / 21:00 / 22:30 / ",
+    "volta_feriados": "06:45 / 08:15 / 09:45 / 11:15 / 14:15 / 15:45 / 17:15 / 18:45 / 21:25 / 22:40 / "
+}

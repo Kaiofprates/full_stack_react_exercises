@@ -1,0 +1,11 @@
+ {
+     "nome": "Linha 3303ALCIDES RABELO / PREFEITURA ",
+     "ida": "ALCIDES RABELO para a PREFEITURA: R. Nikita Rabelo, R.Giovani Fagundes de souza, R. Armando Corrêa Machado, R.Hermenegildo Ribeiro Malaquias, Av. Gov. Magalhães Pinto, Av. Geraldo Athaíde, Parque de Exposições, Hospital São Lucas, Av. Alfredo Coutinho, Av. Armênio Veloso, Praça de Esportes, R. Carlos Gomes, Pç. Dr. Carlos, R. Dr. Santos, Pç. Cel. Ribeiro, R.Bocaiuva, R. Rio Grande do Norte, Av. Dr. João Luis de Almeida, Prefeitura. ",
+     "ida_dias_úteis": "06:20 / 07:20 / 08:20 / 09:20 / 10:20 / 11:20 / 12:20 / 13:20 / 14:20 / 15:20 / 16:20 / 17:20 / 18:20 / 19:20 / 20:20 / 21:20 / 22:20 / ",
+     "ida_sábados": "06:20 / 07:20 / 08:20 / 09:20 / 10:20 / 11:20 / 12:20 / 13:20 / 14:20 / 15:20 / 16:20 / 17:20 / 18:20 / 19:20 / ",
+     "ida_feriados": "06:20 / 07:20 / 08:20 / 09:20 / 10:20 / 11:20 / 12:20 / 13:20 / 14:20 / 15:20 / 16:20 / 17:20 / 18:20 / 19:20 / ",
+     "volta": "PREFEITURA para o ALCIDES RABELO : Prefeitura, R. Correia Machado, R. João Souto, Pç. Cel. Ribeiro, R. Camilo Prates, Pç. Dr. Carlos, R. Cel. Altino de Freitas, Av. Filomeno Ribeiro, Av. Padre Chico, Av. Alfredo Coutinho, Av. Geraldo Athaíde, Hospital São Lucas, Parque de Exposições, Av. Governador Magalhães Pinto,Trevo da Cowan, R. Hermenegildo Ribeiro Malaquias, R.Armando Corrêa Machado, R. Giovani Fagundes de Souza, R. Nikita Rabelo. ",
+     "volta_úteis": "06:40 / 07:40 / 08:40 / 09:40 / 10:40 / 11:40 / 12:40 / 13:40 / 14:40 / 15:40 / 16:40 / 17:40 / 18:40 / 19:40 / 20:40 / 21:40 / 22:40 / ",
+     "volta_sábados": "06:40 / 07:40 / 08:40 / 09:40 / 10:40 / 11:40 / 12:40 / 13:40 / 14:40 / 15:40 / 16:40 / 17:40 / 18:30 / 19:20 / ",
+     "volta_feriados": "06:40 / 07:40 / 08:40 / 09:40 / 10:40 / 11:40 / 12:40 / 13:40 / 14:40 / 15:40 / 16:40 / 17:40 / 18:30 / 19:20 / "
+ }

@@ -1,0 +1,11 @@
+ {
+     "nome": "Linha Circular BCIRCULAR B ",
+     "ida": "Rodoviária: Rodoviária, R.Padre Vieira, R. Santo Amaro, Av. das Américanas, Av. Deputado Plinio Ribeiro, Copasa, 10º Batalhão PM, Trevo da Real, Ginásio Poliesportivo, Trevo da Sion, Posto Esplanada, Trevo da Cowan, Av. Governador Magalhães Pinto, Av. Geraldo Atayde, Parque de Exposições, Hospital são Lucas, Av. Alfredo Coutinho, Av. Armênio Veloso, Pç de Esportes, Av. Filomeno Ribeiro, Av. Padre Chico, Av. Arthur Bernades, Socomil, Av. Deputado esteves Rodrigues, Facit, Mercado Central, Sesc Pousada, Av. José Correia Machado, Unimontes, Shopping Ibituruna, Secretaria de Meio Ambiente, Praça dos Jatobas, Av. Professor Vicente Guimarães, Policia Civil, Av. Francisco Getani, Av Cula Mangabeira, Av. Donato Quintinho, Shopping Montes Claros, Terminal Rodoviàrio. ",
+     "ida_dias_úteis": "06:00 / 06:30 / 07:00 / 07:30 / 08:10 / 08:45 / 09:20 / 09:55 / 10:30 / 11:00 / 11:30 / 12:00 / 12:30 / 13:00 / 13:40 / 14:15 / 14:50 / 15:25 / 16:00 / 16:35 / 17:10 / 17:45 / 18:20 / 18:50 / 19:20 / 19:55 / 20:35 / 21:10 / 21:45 / 22:20 / 22:55 / 23:30 / ",
+     "ida_sábados": "06:00 / 06:30 / 07:05 / 07:40 / 08:15 / 08:50 / 09:25 / 10:00 / 10:35 / 11:10 / 11:45 / 12:20 / 12:55 / 14:05 / 15:10 / 16:20 / 16:55 / 17:30 / 18:05 / 18:40 / 19:15 / 20:15 / 21:15 / 22:15 / ",
+     "ida_feriados": "",
+     "volta": "Rodoviária: ",
+     "volta_úteis": "",
+     "volta_sábados": "",
+     "volta_feriados": ""
+ }

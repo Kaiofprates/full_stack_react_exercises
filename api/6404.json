@@ -1,0 +1,11 @@
+ {
+     "nome": "Linha 6404SANTA RAFAELA / INDEPENDENCIA VIA PONTE PRETA. ",
+     "ida": "SANTA RAFAELA / INDEPENDENCIA: ** ATENÇÃO SENHORES USUÁRIOS HORÁRIOS DE FÉRIAS VALIDOS ENTRE O DIA 26/12 á 03/02/2019,",
+     "ida_dias_úteis": "05:10 / 06:00 / 06:25 / 07:25 / 08:25 / 08:55 / 09:55 / 10:55 / 11:25 / 12:25 / 13:25 / 13:55 / 14:55 / 15:55 / 16:25 / 17:25 / 18:30 / 19:05 / ",
+     "ida_sábados": "07:00 / 08:05 / 09:15 / 10:25 / 11:35 / 12:45 / ",
+     "ida_feriados": "",
+     "volta": "INDEPENDENCIA / SANTA RAFAELA: ** ATENÇÃO SENHORES USUÁRIOS HORÁRIOS DE FÉRIAS VALIDOS ENTRE O DIA 26/12 á 03/02/2019,",
+     "volta_úteis": "05:10 / 06:10 / 07:10 / 07:40 / 08:40 / 09:40 / 10:10 / 11:10 / 12:10 / 12:40 / 13:40 / 14:40 / 15:10 / 16:10 / 17:10 / 17:45 / 18:45 / ",
+     "volta_sábados": "06:55 / 08:05 / 09:15 / 10:25 / 11:35 / 12:45 / ",
+     "volta_feriados": ""
+ }

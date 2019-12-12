@@ -1,0 +1,11 @@
+ {
+     "nome": "Linha 3302JARDIM ALEGRE / PREFEITURA ",
+     "ida": "JARDIM ALEGRE para a PREFEITURA: Partindo da Rua H Nº 51 do Jardim Alegre , SEGUE PELA rua F, estrada de acesso ao Jardim Alegre,”, Trevo Posto Potencia, Av. “C, Av. “A”, Av. Alameda Beija Flor, Avenida Governador Magalhães Pinto Passa em Frente ao Max Min, Av. Magalhães Pinto, , AABB, Chimarrão, Cowan, Av. Magalhães Pinto, continua pela Av. Geraldo Athayde, Pça de Esportes, Rua Armenio Veloso, Rua Carlos Gomes, Pça. Dr. Carlos, Rua Dr. Santos, Pça. Cel. Ribeiro, Rua Bocaiúva, Rua Rio Grande do Norte, Av. Dr. Joao Luiz de Almeida e ponto de retorno na Prefeitura.",
+     "ida_dias_úteis": "05:40 / 07:10 / 08:50 / 10:30 / 12:10 / 13:50 / 15:30 / 17:10 / 18:50 / 20:20 / 21:50 / ",
+     "ida_sábados": "05:40 / 07:10 / 08:50 / 10:30 / 12:10 / 13:50 / 15:30 / 17:10 / 18:50 / 21:50 / ",
+     "ida_feriados": "05:40 / 07:10 / 08:50 / 10:30 / 12:10 / 15:30 / 17:10 / 18:50 / 21:50 / ",
+     "volta": "PREFEITURA para o JARDIM ALEGRE: Partindo da Prefeitura, Rua Correa Machado, Rua Joao Souto, Pç. Cel. Ribeiro, Rua Camilo Prates, praça Dr. Carlos, Rua Cel. Altino de Freitas, rua Filomena Ribeiro Av. Osvaldo Cruz, R. Germano Gonçalves, Av. Floriano Neiva, segue direto até a Pça Itapetinga, entra à direita na Av. Geraldo Athayde, Parque de Exposição, Av. Governador Magalhães Pinto (trevo da cowan chimarrão, AABB, Mackro),Av. Governador Magalhaes Pinto, Passa no Bairro Primavera nas Seguintes Ruas: Av. Alameda Beija Flor (Primavera), Av. “F”, Av. “A”, Av. “C”, Av. “D”, Posto Potencia, Estrada de acesso ao Jardim Alegre, segue pela rua E e rua H Nº 51 onde faz ponto Final.",
+     "volta_úteis": "06:20 / 07:55 / 09:35 / 11:15 / 12:55 / 14:35 / 16:15 / 17:55 / 19:30 / 21:00 / 22:30 / ",
+     "volta_sábados": "06:20 / 07:55 / 09:35 / 11:15 / 12:55 / 14:35 / 16:15 / 17:55 / 19:30 / 22:30 / ",
+     "volta_feriados": "06:20 / 07:55 / 09:35 / 11:15 / 14:35 / 16:15 / 17:55 / 19:30 / 22:30 / "
+ }

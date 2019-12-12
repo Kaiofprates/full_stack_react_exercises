@@ -1,0 +1,11 @@
+ {
+     "nome": "Linha 5602ALTO DA BOA VISTA -(VIA RODOVIARIA) / CENTRO ",
+     "ida": "ALTO DA BOA VISTA para o CENTRO : Av. Lauro Dias de Sá, Av. Paulista, Av. Neco Delfino, Av. Manoel Magalhães Filho, Av. dos Militares, R. Santa Efigênia, Av. São Judas, Rua Luizania, Av. Donato Quintino, Terminal Rodoviário, Shopping Montes Claros, Av. Cula Mangabeira, Hospital Universitário, Prefeitura, R. Correa Machado, R. João Souto, Pç. Coronel Ribeiro, R. Camilo Prates.",
+     "ida_dias_úteis": "06:05 / 06:30 / 07:10 / 07:35 / 08:20 / 08:55 / 09:35 / 10:15 / 10:50 / 11:30 / 12:05 / 12:45 / 13:20 / 14:00 / 14:35 / 15:15 / 15:50 / 16:30 / 17:05 / 17:45 / 18:20 / ",
+     "ida_sábados": "06:00 / 06:30 / 07:00 / 07:35 / 08:10 / 08:45 / 09:20 / 09:55 / 10:30 / 11:05 / 11:40 / 12:15 / 12:50 / 13:25 / 14:00 / 14:35 / 15:10 / 15:45 / 16:20 / 16:55 / 17:30 / 18:05 / ",
+     "ida_feriados": "",
+     "volta": "CENTRO para o ALTO DA BOA VISTA: R. Camilo Prates, Pç Dr. Carlos, R. Coronel Altino de Freitas, R. Filomeno Ribeiro, Av. Oswaldo Cruz, R. Belo Horizonte, Av. Santos Dumont, R. Sebastião Diniz, Av. Coronel Luiz Maia, Av. Deputado Plinio Ribeiro, Av. Manoel Magalhães Filho, Av. Neco Delfino, Av. Paulista, Av. Lauro de Sá.",
+     "volta_úteis": "06:30 / 06:55 / 07:35 / 08:00 / 08:45 / 09:20 / 10:00 / 10:40 / 11:15 / 11:55 / 12:30 / 13:10 / 13:45 / 14:25 / 15:00 / 15:40 / 16:15 / 16:55 / 17:30 / 18:10 / 18:45 / ",
+     "volta_sábados": "06:20 / 06:55 / 07:25 / 08:00 / 08:35 / 09:10 / 09:45 / 10:20 / 10:55 / 11:30 / 12:05 / 12:40 / 13:15 / 13:50 / 14:25 / 15:00 / 15:35 / 16:10 / 16:45 / 17:20 / 17:55 / 18:30 / ",
+     "volta_feriados": ""
+ }

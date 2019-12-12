@@ -1,0 +1,11 @@
+{
+    "nome": "Linha 1601AMAZONAS / RODOVIÁRIA ",
+    "ida": "AMAZONAS para a RODOVIÁRIA: Rua Plínio Ribeiro, Rua Pio XII, Rua Santinha Tolentino, Rua Felizardo Mendes Cardoso, Av. Carlos Ferrante, Av. Sidney Chaves, Av.Ipanema, Rua Presidente Kennedy, Av. João XXIII,Av. Artur Bernardes, Av. Armênio Veloso, Rua Carlos Gomes, Pça Dr. Carlos, R. Doutor Santos, Pça Coronel Ribeiro,Rua Bocaiuva, Rua Januária, Rua Raio Cristoff, Av. Cula Mangabeira, Av. Donato Quintino, Rodoviária. ",
+    "ida_dias_úteis": "06:00 / 06:25 / 06:50 / 07:15 / 07:45 / 08:10 / 08:40 / 09:10 / 09:35 / 10:05 / 10:35 / 11:00 / 11:30 / 12:00 / 12:25 / 12:55 / 13:25 / 13:50 / 14:20 / 14:50 / 15:15 / 15:45 / 16:15 / 16:40 / 17:10 / 17:40 / 18:05 / 18:35 / 19:05 / 19:30 / 20:00 / 21:00 / 22:40 / ",
+    "ida_sábados": "06:00 / 06:30 / 07:25 / 07:55 / 08:50 / 09:20 / 10:15 / 10:45 / 11:40 / 12:10 / 13:05 / 13:35 / 15:00 / 16:25 / 17:50 / 19:15 / 20:40 / 22:05 / ",
+    "ida_feriados": "06:00 / 07:15 / 08:30 / 09:45 / 11:00 / 12:15 / 13:30 / 14:45 / 16:00 / 17:15 / 18:30 / 19:45 / 21:00 / 22:15 / ",
+    "volta": "RODOVIÁRIA para o AMAZONAS : Rodoviária, Av. Donato Quintinho, Av. Cula Mangabeira, Rua Carreira machado, Rua João Souto, Pça Coronel Ribeiro, Rua Camilo Prates, Pça Dr. Carlos, Av. Coronel Altino de Freitas, Av. Oswaldo Cruz, Rua Filomeno Ribeiro, Av. Padre Chico, Av. Alfredo Coutinho, Av. Artur Bernardes, Socomil, Av. João XXII, Hopital Aroldo Tourinho, Rua Presidente Kennedy,Av.Irmãos Jaime e Damião, Rua Samuel Nobre Lessa,Av. Dos pês, Av. Carlos Ferrante,Rua Santinha Tolentino,Rua Pio XII,Rua Dom João VI,Rua Maria Caldeira Veloso, Rua Plínio Ribeiro ",
+    "volta_úteis": "06:30 / 07:00 / 07:25 / 07:50 / 08:20 / 08:45 / 09:15 / 09:45 / 10:10 / 10:40 / 11:10 / 11:35 / 12:05 / 12:35 / 13:00 / 13:30 / 14:00 / 14:25 / 14:55 / 15:25 / 15:50 / 16:20 / 16:50 / 17:15 / 17:45 / 18:15 / 18:40 / 19:10 / 19:40 / 20:05 / 20:35 / 21:55 / 23:15 / ",
+    "volta_sábados": "06:35 / 07:05 / 08:00 / 08:30 / 09:25 / 09:55 / 10:50 / 11:20 / 12:15 / 12:45 / 13:40 / 14:10 / 15:35 / 17:00 / 18:25 / 19:50 / 21:15 / 22:40 / ",
+    "volta_feriados": "06:30 / 07:45 / 09:00 / 10:15 / 11:30 / 12:45 / 14:00 / 15:15 / 16:30 / 17:45 / 19:00 / 20:15 / 21:30 / 22:45 / "
+}

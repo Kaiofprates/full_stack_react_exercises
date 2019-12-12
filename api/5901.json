@@ -1,0 +1,11 @@
+ {
+     "nome": "Linha 5901CINTRA / VILA OLIVEIRA - VIA UNIMONTES ",
+     "ida": "Cintra para a Vila Oliveira(Via Unimontes): R. Baronesa, Av. Rolando Trindade Bassi, R. Nelson Alkimim, R. Sargento Piloto, R. Marimar, R. José Joaquim Pereira, R. João Gama, R. Nossa Senhora de fatima, Pç do Cintra, R. Santa Catarina, R. Santo Expedito, R. Monte Plano, R. General Carneiro, R. Juca Prates, R. Cel. Joaquim Costa, Av. Padre Chico, Av. Alfredo Coutinho, R. Padre Teixeira, R. Gonçalves Figueira, R. Santa Maria, R.Flavio Mauricio, R.Maria Conceição Oliveira.",
+     "ida_dias_úteis": "05:50 / 06:20 / 06:55 / 07:35 / 08:15 / 08:55 / 09:35 / 10:15 / 10:55 / 11:35 / 12:20 / 12:55 / 13:35 / 14:15 / 14:55 / 15:35 / 16:15 / 16:50 / 17:25 / 18:05 / 19:20 / 20:40 / 22:00 / ",
+     "ida_sábados": "06:20 / 06:55 / 07:35 / 08:15 / 08:55 / 09:35 / 10:15 / 10:55 / 11:30 / 12:15 / 12:50 / 14:05 / 15:25 / 16:40 / 17:45 / 19:00 / 20:20 / 21:35 / ",
+     "ida_feriados": "06:20 / 07:35 / 08:55 / 10:15 / 11:30 / 12:50 / 14:05 / 15:25 / 16:40 / 17:45 / 19:00 / 20:20 / 21:35 / ",
+     "volta": "Vila Oliveira para o Cintra(Via Unimontes): R. Anita Malveira, R. Adelia Miranda Oliveira, R. “CD”, R. Pedro Pereira dos Santos, R. Joaquim Ferreira Cruz, R. “M”, R. Maria Conceição Oliveira, R. Flávio Mauricio, R. Santa Lúcia, R. São Paulo, Av. Deputado Esteves Rodrigues, R. Cel. Celestino de Freitas, R. Gonçalves Figueira, R. Santa Maria, R. Justino Câmara, Av. Osvaldo Cruz, R. Carlos Gomes, Pça. Dr. Carlos, R. Dr. Santos, Pça. Coronel Ribeiro, , R. Bocaiúva, R. Correia Machado, R. Melo Viana, R. Clemente Martins, R. General Carneiro, R. Monte Plano, R. Príncipe Regente, R. Santa Catarina, R. Antônio Costa, R. Jose Soares de Paula, R. Guilherme Ferreira Sobrinho, R. Baronesa. ",
+     "volta_úteis": "05:20 / 06:20 / 07:00 / 07:40 / 08:20 / 09:00 / 09:40 / 10:20 / 11:00 / 11:40 / 12:20 / 13:00 / 13:40 / 14:20 / 15:00 / 15:40 / 16:15 / 16:50 / 17:30 / 18:05 / 18:45 / 20:10 / 21:25 / 22:35 / ",
+     "volta_sábados": "05:45 / 06:20 / 07:00 / 07:40 / 08:20 / 09:00 / 09:40 / 10:20 / 10:55 / 11:40 / 12:05 / 13:30 / 14:50 / 16:05 / 17:10 / 18:25 / 19:45 / 21:00 / ",
+     "volta_feriados": "05:45 / 07:00 / 08:20 / 09:40 / 10:55 / 12:05 / 13:30 / 14:50 / 16:05 / 17:10 / 18:25 / 19:45 / 21:00 / "
+ }

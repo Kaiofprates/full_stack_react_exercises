@@ -1,0 +1,11 @@
+ {
+     "nome": "Linha 1901AMAZONAS / UNIMONTES - Via Conservatório ",
+     "ida": "AMAZONAS para a UNIMONTES: Rua Professora Dorita Versiane,Rua Plinio Ribeiro, Rua Pio XII, Rua Santinha Tolentino, Rua Felizardo Mendes Cardoso, Av. Carlos Ferrante, Rua Dim Pimenta, Rua Presidente Kennedy, Av. João XXIII, Av. Artur Bernardes, Av. Armênio Veloso, Rua Carlos Gomes, Rua. Governador Valadares , Av. Gonçalves Figueira, Av. Santa Maria , Rua Walter Lopes Silva, Rua Santa Lucia, Rua São Paulo, Rua Tupis, Rua Geraldina Sarmento Mourão, Av. Doutor João Chaves, Av. Mestra Fininha.",
+     "ida_dias_úteis": "06:35 / 07:50 / 10:20 / 11:35 / 12:50 / 14:05 / 15:20 / 16:05 / 17:15 / 18:30 / 22:10 / ",
+     "ida_sábados": "",
+     "ida_feriados": "",
+     "volta": "UNIMONTES para o AMAZONAS: Av. Coronel Prates, R. Gonçalves Figueira, R. Santa Maria, R. Justino Câmara, R. Filomeno Ribeiro, Av. Oswaldo Cruz, Av. Padre Chico, Av. Alfredo Coutinho, Av. Artur Bernardes, Av. João XXIII, Hospital Aroldo Torinho, R. Presidente Kenndey, Av. Irmão Jaime e Damião, R. Samuel Nobre Lessa, Av. dos Ipês, Av. Carlos Ferrante, R. Santinha Tolentino, R. Pio XII, R. Dom João VI, R. Maria Caldeira Veloso, R. Plinio Ribeiro, R. Germiano Veloso, R. Professora Dorita Versiane.",
+     "volta_úteis": "07:05 / 08:20 / 10:50 / 12:05 / 13:20 / 14:35 / 16:30 / 17:45 / 19:00 / 22:40 / ",
+     "volta_sábados": "",
+     "volta_feriados": ""
+ }

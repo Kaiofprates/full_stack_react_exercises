@@ -1,0 +1,11 @@
+ {
+     "nome": "Linha 8201MORADA DO PARQUE / UFMG VIA RENASCENÇA ",
+     "ida": "Morada do Parque para UFMG: ** ATENÇÃO SENHORES USUÁRIOS HORÁRIOS DE FÉRIAS VALIDOS ENTRE O DIA 26/12 á 03/02/2019,",
+     "ida_dias_úteis": "07:25 / 09:25 / 11:25 / 13:25 / 15:25 / 17:25 / 19:25 / 21:20 / 23:00 / ",
+     "ida_sábados": "06:25 / 07:25 / 08:25 / 09:25 / 10:25 / 11:25 / 12:25 / 13:25 / 15:25 / 17:25 / 19:25 / ",
+     "ida_feriados": "",
+     "volta": "UFMG para o Morada do Parque : ** ATENÇÃO SENHORES USUÁRIOS HORÁRIOS DE FÉRIAS VALIDOS ENTRE O DIA 26/12 á 03/02/2019,",
+     "volta_úteis": "06:30 / 08:30 / 10:30 / 12:30 / 14:30 / 16:30 / 18:30 / 20:30 / 22:20 / ",
+     "volta_sábados": "06:30 / 07:30 / 08:30 / 09:30 / 10:30 / 11:30 / 12:30 / 14:30 / 16:30 / 18:30 / ",
+     "volta_feriados": ""
+ }

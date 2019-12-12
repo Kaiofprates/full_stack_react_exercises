@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+
+
+.App-header {
+  background-color:indigo;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: row;
+  align-items:flex-start;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
+#data {
+  font-style: normal;
+  padding: 7px;
+  width: 700px;
+  position: relative;
+  background-color: aqua;
+  color: indigo;
+  font-size: 16px;
+  text-align: justify;
+}
+
+#options {
+ justify-self: flex-start; 
+ height: 80px;
+ font-size: 30px;
+ color: blue;
+ width: 90px;
+ border-radius: 8px;
+}
